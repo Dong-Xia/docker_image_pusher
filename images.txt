@@ -6,7 +6,7 @@ mysql:8.0.39
 
 postgres:13
 
-redis:6
+redis:6.2.4
 valkey/valkey:8
 
 minio/minio
